@@ -1,0 +1,25 @@
+body {
+        background-image: url("MyBackground.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100% 100%;
+     }
+#table-table{
+              width : 800px;
+            }
+#pic-table {
+              width : 800px;
+           }
+            p {
+                color : white;
+                width : 800px;
+              }
+            h1 {
+                 color : white;
+               }
+#nav{
+      width:200px; text-align:center;
+    }
+#pic{
+      width:200px; text-align:center;
+     } 
