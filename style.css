@@ -1,0 +1,16 @@
+body {
+        background-color : black;
+     }
+#table-table{
+              width : 800px;
+            }
+#nav {
+        width:200px; text-align: center;
+     }
+p{
+   color : white;
+   width : 800px;
+}
+h1{
+   color : white;
+}
