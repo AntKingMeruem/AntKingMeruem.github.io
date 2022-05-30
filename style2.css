@@ -16,3 +16,9 @@ body {
             h1 {
                  color : white;
                }
+#nav{
+      width:200px; text-align:center;
+    }
+#pic{
+      width:200px; text-align:center;
+     }       
