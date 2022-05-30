@@ -3,7 +3,7 @@ body {
      }
 #table-table{
               width : 800px;
-              background-image = url("MyBackground.jpg")
+              background-image: url("MyBackground.jpg")
               background-repeat: no-repeat;
               background-size : width="1000px" height="1000px";
             }
