@@ -1,10 +1,11 @@
 body {
-        background-image : url(MyBackground.jpg);
-        background-repeat : no-repeat;
-        background-size  : width="800px" height="600px";
+        background-color: black;
      }
 #table-table{
               width : 800px;
+              background-image = url("MyBackground.jpg")
+              background-repeat: no-repeat;
+              background-size : width="800px" height="600px";
             }
 #pic-table {
               width : 800px;
