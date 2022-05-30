@@ -1,0 +1,18 @@
+body {
+        background-image : url(MyBackground.jpg);
+        background-repeat : no-repeat;
+        background-size  : width="800px" height="600px";
+     }
+#table-table{
+              width : 800px;
+            }
+#pic-table {
+              width : 800px;
+           }
+            p {
+                color : white;
+                width : 800px;
+              }
+            h1 {
+                 color : white;
+               }
